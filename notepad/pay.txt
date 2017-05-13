@@ -1,0 +1,9 @@
+Earnings Gross 
+Basic 6000 (40% of Gross)
+HRA 4500 (30% of Gross)
+Conveyance 800 (fixed)
+Medical Allowance 1250 (fixed)
+Special Allowance 2450 (remaining)
+
+
+Total 15000

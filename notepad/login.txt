@@ -1,0 +1,7 @@
+ftp://lein@50.28.66.14/
+
+
+le2.in:8880
+
+
+password:12riyanaa!
